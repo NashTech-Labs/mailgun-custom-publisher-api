@@ -1,0 +1,3 @@
+mailgun:
+  domain: ${MAILGUN_DOMAIN:test}
+  api: ${MAILGUN_API:test}
